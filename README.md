@@ -1,8 +1,8 @@
-#1. Thư viện sử dụng
+# 1. Thư viện sử dụng
 ---
 pickle, cv2, mediapipe, numpy, time, RandomForestClassifier, train_test_split, accuracy_score, os.
 
-#2. Nguyên tắt hoạt động
+# 2. Nguyên tắt hoạt động
 ---
 
 Đầu tiên chạy file collect_img.py, file này cho phép người dùng có thể dùng trực tiếp camera để lất data trục tiếp từ bên ngoài.
@@ -20,12 +20,12 @@ Cuối cùng chạy file inference_classifier.py để chạy camera và đọc 
 
 <img width="480" alt="tscam" src="https://github.com/user-attachments/assets/5538937d-469e-4f5a-9441-f543e598e9ac">
 
-#3. Đánh giá mô hình
+# 3. Đánh giá mô hình
 ---
 
 <img width="1020" alt="Figure_1" src="https://github.com/user-attachments/assets/b9387471-d06c-4786-b95c-3ed7e3325a11">
 
-#4. Bảng ký hiệu tay
+# 4. Bảng ký hiệu tay
 ---
 
 <img width="480" alt="1" src="https://github.com/user-attachments/assets/7da4f464-a3c0-45ad-9411-15b1ae07428a">
