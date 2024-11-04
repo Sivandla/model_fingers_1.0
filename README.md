@@ -14,7 +14,7 @@ Tiếp theo cho chạy file create_dataset.py file này nhằm mục đích lọ
 
 Sau đó chạy file train_classifier.py file này sẽ đưa các hình ảnh được tạo lại ở file create_dataset.py vào file model.p:
 
-<img width="248" alt="data_p" src="https://github.com/user-attachments/assets/9e3781b9-799c-456d-8fb5-0fd8b525cebc">
+<img width="520" alt="data_p" src="https://github.com/user-attachments/assets/9e3781b9-799c-456d-8fb5-0fd8b525cebc">
 
 Cuối cùng chạy file inference_classifier.py để chạy camera và đọc các thao tác tay từ đó cứ mỗi 1000 mili giây sẽ tự động ghi lại cử chỉ tay người dùng:
 
